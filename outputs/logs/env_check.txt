@@ -1,0 +1,6 @@
+=== CSC4005 ENVIRONMENT CHECK ===
+Python version: 3.10.20 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:42:35) [MSC v.1942 64 bit (AMD64)]
+Platform: Windows-10-10.0.26200-SP0
+System: Windows 10
+Import status: FAILED
+Error: RuntimeError('operator torchvision::nms does not exist')
